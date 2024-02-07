@@ -1,4 +1,4 @@
-# MD5 Password Cracker in PHP
+# MD5 PIN Cracker in PHP
 
 Welcome to the "MD5 Password Cracker" repository by Khawar Khan. This PHP-based tool is designed to demonstrate the process of cracking MD5-hashed passwords using a brute-force approach.
 
@@ -24,3 +24,7 @@ The PHP script takes an MD5 hash as input and iterates through all possible 4-di
    * Open your web browser and go to:
    ```plaintext
    http://localhost/MD5-Password-Cracker-PHP/index.php
+5. Usage:
+   * Your PHP program should now be accessible locally, follow the on-screen instructions to interact with the application.
+   * Input the MD5 hash in the provided form.
+   * Click the "Crack MD5" button to initiate the cracking process.
