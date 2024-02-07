@@ -39,3 +39,9 @@ The PHP script takes an MD5 hash as input and iterates through all possible 4-di
   * Ensure that XAMPP's Apache server is running.
   * Verify the correct path in the browser URL, including the folder name.
   * Check for any error messages in the XAMPP logs.
+
+## Disclaimer
+This repository is for educational purposes only. The use of password cracking tools without proper authorization is illegal and unethical.
+
+## Author
+Khawar Khan
