@@ -33,7 +33,9 @@ The PHP script takes an MD5 hash as input and iterates through all possible 4-di
    * Your PHP program should now be accessible locally, follow the on-screen instructions to interact with the application.
    * Input the MD5 hash in the provided form.
    * Click the "Crack MD5" button to initiate the cracking process.
-  
+6. Example:
+   * Putting an md5 hashed PIN to crack.
+     ![putting-a-md5-hash-of-1234.png](putting-a-md5-hash-of-1234.png)
   ## Troubleshooting
   If you encounter any issues, please check the following:
   * Ensure that XAMPP's Apache server is running.
