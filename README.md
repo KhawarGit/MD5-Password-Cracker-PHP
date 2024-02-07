@@ -14,4 +14,13 @@ The PHP script takes an MD5 hash as input and iterates through all possible 4-di
 2. Navigate to the Program:
    ```bash
    cd MD5-Password-Cracker-PHP
-
+3. Copy Repository in XAMPP's htdocs (if not cloned in htdocs):
+   ```bash
+   #for Windows
+   xcopy /E MD5-Password-Cracker-PHP C:\xampp\htdocs\
+   #for Linux/Unix
+   cp -r MD5-Password-Cracker-PHP C:\xampp\htdocs\
+4. Access the Program:
+   * Open your web browser and go to:
+   ```plaintext
+   http://localhost/MD5-Password-Cracker-PHP/index.php
