@@ -15,7 +15,7 @@ The PHP script takes an MD5 hash as input and iterates through all possible 4-di
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/your-username/MD5-Password-Cracker-PHP.git
+   git clone https://github.com/KhawarGit/MD5-Password-Cracker-PHP.git
 2. Navigate to the Program:
    ```bash
    cd MD5-Password-Cracker-PHP
