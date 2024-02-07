@@ -6,6 +6,11 @@ Welcome to the "MD5 Password Cracker" repository by Khawar Khan. This PHP-based 
 
 The PHP script takes an MD5 hash as input and iterates through all possible 4-digit numeric PIN combinations, checking if the hash matches. Once a match is found, it reveals the PIN and displays the total number of checks performed during the cracking process.
 
+## Prerequisites
+- PHP installed on your machine.
+- XAMPP installed on your machine. 
+- A web server (e.g., Apache) to host the PHP files.
+  
 ## Usage
 
 1. Clone the Repository:
