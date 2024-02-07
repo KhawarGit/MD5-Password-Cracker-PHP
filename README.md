@@ -43,9 +43,9 @@ The PHP script takes an MD5 hash as input and iterates through all possible 4-di
    * Input the MD5 hash in the provided form.
    * Click the "Crack MD5" button to initiate the cracking process.
 6. Example:
-   * Putting an md5 hashed PIN to crack.
+   * Putting an md5 hashed PIN to crack.  
      ![putting-a-md5-hash-of-1234.png](putting-a-md5-hash-of-1234.png)
-   * Cracked PIN
+   * Cracked PIN  
      ![cracked-PIN-1234](result-of-hash.png)
   ## Troubleshooting
   If you encounter any issues, please check the following:
