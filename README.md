@@ -36,6 +36,8 @@ The PHP script takes an MD5 hash as input and iterates through all possible 4-di
 6. Example:
    * Putting an md5 hashed PIN to crack.
      ![putting-a-md5-hash-of-1234.png](putting-a-md5-hash-of-1234.png)
+   * Cracked PIN
+     ![cracked-PIN-1234](result-of-hash.png)
   ## Troubleshooting
   If you encounter any issues, please check the following:
   * Ensure that XAMPP's Apache server is running.
