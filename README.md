@@ -58,3 +58,5 @@ This repository is for educational purposes only. The use of password cracking t
 
 ## Author
 Khawar Khan
+<br />
+LinkedIn: www.linkedin.com/in/khawar-khan
